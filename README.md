@@ -2,4 +2,16 @@ Hey everybody. I’m Akaky Akakievic, the young versatile coder. I specialize pr
 
 Feel free to contact me: @MrAkakievic (Telegram) & @\_MrAkakievic_ (X, formerly Twitter) & mrakakievic@gmail.com📫
 
-Languages: English, Russian
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+Привет. Я Акакий Акакиевич, молодой мультисторонний программер, специализируюсь главным образом на python, AI-инструмментах и сетях
+
+Не надо бояться писать мне: @MrAkakievic (Telegram) & @\_MrAkakievic_ (X, formerly Twitter) & mrakakievic@gmail.com📫
+
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
+I speak in: English, Русский
